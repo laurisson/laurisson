@@ -1,4 +1,4 @@
-### Olá! eu sou o laurisson 😁
+### Olá! eu sou o laurisson,estudante em programação e tecnologia! 😁
 
  <div>
     <a href="https://github.com//laurisson">
